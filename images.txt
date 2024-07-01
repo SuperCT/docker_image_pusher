@@ -1,1 +1,1 @@
-zhangqinghua/fastgpt
+nginx
